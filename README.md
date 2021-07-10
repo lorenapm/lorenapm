@@ -6,23 +6,9 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 
 **#adalab #frontenddeveloper #womenintech**
 
-## Habilidades profesionales
+![3](https://user-images.githubusercontent.com/81964101/125171197-2456dc80-e1b3-11eb-9270-f5f2c43d1808.png){width=400px}
 
-⚙️ **Programación**
 
-<ul>
-    <li src="images/react.png">React</li>
-    <li>
-        JavaScript</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>Gulp</li>
-        <li>Git</li>
-        <li>Node.js</li>
-        <li>Sass</li>
-        <li>nodejs
-    </li>
-</ul>
 
 🛠 **Herramientas**
 Github
