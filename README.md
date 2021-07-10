@@ -6,19 +6,7 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 
 **#adalab #frontenddeveloper #womenintech**
 
-![3](https://user-images.githubusercontent.com/81964101/125171197-2456dc80-e1b3-11eb-9270-f5f2c43d1808.png){width=400px}
-
-
-
-🛠 **Herramientas**
-Github
-Npm
-Visual Studio Code
-Zeplin
-Trello
-Slack
-Indesign
-Illustrator
+![profesional](https://user-images.githubusercontent.com/81964101/125171542-186c1a00-e1b5-11eb-9196-9a640064ac9e.png)
 
 ## ¿Hablamos?
 
