@@ -9,7 +9,7 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 ## Habilidades profesionales
 
 ⚙️ **Programación**
-<img src="images/react.png"> React
+<img src="lorenapm/images/react.png"> React
 JavaScript
 HTML5
 CSS3
