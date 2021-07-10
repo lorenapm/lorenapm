@@ -9,15 +9,20 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 ## Habilidades profesionales
 
 ⚙️ **Programación**
-<img src="lorenapm/images/react.png"> React
-JavaScript
-HTML5
-CSS3
-Gulp
-Git
-Node.js
-Sass
-nodejs
+
+<ul>
+    <li src="images/react.png">React</li>
+    <li>
+        JavaScript</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Gulp</li>
+        <li>Git</li>
+        <li>Node.js</li>
+        <li>Sass</li>
+        <li>nodejs
+    </li>
+</ul>
 
 🛠 **Herramientas**
 Github
@@ -28,6 +33,11 @@ Trello
 Slack
 Indesign
 Illustrator
+
+## ¿Hablamos?
+
+- 📫 Escríbeme: lorena.perez@gmail.com
+- 💬 Puedes visitarme en LinkedIn: https://www.linkedin.com/in/lorenaperezmartinez/
 
 <!--
 
