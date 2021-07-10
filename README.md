@@ -8,8 +8,33 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 
 ## Habilidades profesionales
 
-<img src="images/react.png" alt="logo React" width="50px">
+⚙️ **Programación**
+React
+JavaScript
+HTML5
+CSS3
+Gulp
+Git
+Node.js
+Sass
+nodejs
 
+🛠 **Herramientas**
+Github
+Npm
+Visual Studio Code
+Zeplin
+Trello
+Slack
+Indesign
+Illustrator
+
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 02581c68141497b4b3da5053fc095cade595e6cb
 <!--
 
 ![584830f5cef1014c0b5e4aa1](https://user-images.githubusercontent.com/81964101/125168753-4ba7ac80-e1a7-11eb-874a-2cd1ab4b1a3d.png)
