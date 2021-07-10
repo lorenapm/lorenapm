@@ -10,9 +10,11 @@ Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **
 
 <img src="images/react.png" alt="logo React" width="50px">
 
-![584830f5cef1014c0b5e4aa1](https://user-images.githubusercontent.com/81964101/125168753-4ba7ac80-e1a7-11eb-874a-2cd1ab4b1a3d.png)
+
 
 <!--
+
+![584830f5cef1014c0b5e4aa1](https://user-images.githubusercontent.com/81964101/125168753-4ba7ac80-e1a7-11eb-874a-2cd1ab4b1a3d.png)
 **lorenapm/lorenapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
