@@ -4,7 +4,7 @@ Tras años colaborando con empresas para comunicar(se) con pasión como periodis
 
 Soy una persona **creativa, comunicativa y resolutiva**, y muy acostumbrada a **trabajar en equipo**. 
 
-En mis repositorios encontraréis solo una muestra de mis primeros trabajos como font end developer. En los últimos meses, estoy colaborando como freelance y a tiempo parcial con EC Brands Studio (la agencia de contenidos de El Confidencial) y me estos preparando para asumir nuevos retos. 
+En mis repositorios encontraréis solo una muestra de mis primeros trabajos como font end developer. En los últimos meses, estoy colaborando como freelance y a tiempo parcial con EC Brands Studio (la agencia de contenidos de El Confidencial) y me estos preparando para asumir nuevos retos. ¿Hablamos?
 
 **#adalab #frontenddeveloper #womenintech**
 
